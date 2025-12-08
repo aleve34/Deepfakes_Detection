@@ -32,7 +32,7 @@ We fine-tuned the pre-trained model on the **FaceForensics++ C32 dataset**, perf
   - Images are full frames from videos
   - Balanced dataset: ~5000 real and 5000 fake frames  
 - **Preprocessing:** minimal augmentation (random horizontal flip only)  
-- **Note:** We only used two folders to simplify the binary classification task (Real vs Fake).
+- **Note:** The dataset is too large to include in this repository. You can download it from the link above.
 
 ---
 
