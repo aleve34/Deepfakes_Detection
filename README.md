@@ -2,7 +2,7 @@
 # Deepfake Detection with Xception
 
 ## Overview
-This project focuses on **deepfake detection** using the ** Xception** network.  
+This project focuses on **deepfake detection** using the **Xception** network.  
 We fine-tuned the pre-trained model on the **FaceForensics++ C32 dataset**, performing binary classification (Real vs Fake). The notebook contains code, experimental results, and visualizations to understand model performance.
 
 ---
