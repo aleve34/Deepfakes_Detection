@@ -1,8 +1,8 @@
 
-# Deepfake Detection with Legacy Xception
+# Deepfake Detection with Xception
 
 ## Overview
-This project focuses on **deepfake detection** using the **Legacy Xception** network.  
+This project focuses on **deepfake detection** using the ** Xception** network.  
 We fine-tuned the pre-trained model on the **FaceForensics++ C32 dataset**, performing binary classification (Real vs Fake). The notebook contains code, experimental results, and visualizations to understand model performance.
 
 ---
@@ -37,7 +37,7 @@ We fine-tuned the pre-trained model on the **FaceForensics++ C32 dataset**, perf
 ---
 
 ## Model Architecture
-- **Legacy Xception**:  
+- **Xception**:  
   - Depthwise separable convolutions  
   - Entry, middle, and exit flows  
   - Global average pooling  
